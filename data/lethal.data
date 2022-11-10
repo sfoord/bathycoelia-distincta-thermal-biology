@@ -1,7 +1,7 @@
 ---
 category: data
 filename: lethal.csv
-weight: 1
+weight: 3
 title: lethal limits
 description:  upper and lower lethal limits of Bathycoelia distincta
 type: text/csv
