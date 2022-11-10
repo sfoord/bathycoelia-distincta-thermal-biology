@@ -1,0 +1,85 @@
+assay,stage,temp,time,n,survival
+ULT,instar 1,43,2h,20,0
+ULT,instar 2,43,2h,20,0
+ULT,instar 3,43,2h,20,0
+ULT,instar 4,43,2h,20,0
+ULT,instar 5,43,2h,20,0
+ULT,female,43,2h,20,0
+ULT,male,43,2h,20,0
+ULT,instar 1,43,1h,20,0
+ULT,instar 2,43,1h,20,0
+ULT,instar 3,43,1h,20,0
+ULT,instar 4,43,1h,20,0
+ULT,instar 5,43,1h,20,0
+ULT,female,43,1h,20,0
+ULT,male,43,1h,20,0
+ULT,instar 1,42,2h,20,0
+ULT,instar 2,42,2h,20,0
+ULT,instar 3,42,2h,20,0
+ULT,instar 4,42,2h,20,0
+ULT,instar 5,42,2h,20,0
+ULT,female,42,2h,20,0
+ULT,male,42,2h,20,0
+ULT,instar 1,41,2h,20,12
+ULT,instar 2,41,2h,20,2
+ULT,instar 3,41,2h,20,8
+ULT,instar 4,41,2h,20,8
+ULT,instar 5,41,2h,20,12
+ULT,female,41,2h,20,13
+ULT,male,41,2h,20,12
+ULT,instar 1,40,2h,20,14
+ULT,instar 2,40,2h,20,13
+ULT,instar 3,40,2h,20,16
+ULT,instar 4,40,2h,20,11
+ULT,instar 5,40,2h,20,8
+ULT,female,40,2h,20,12
+ULT,male,40,2h,20,18
+ULT,instar 1,39,2h,20,11
+ULT,instar 2,39,2h,20,5
+ULT,instar 3,39,2h,20,16
+ULT,instar 4,39,2h,20,15
+ULT,instar 5,39,2h,20,6
+ULT,female,39,2h,20,20
+ULT,male,39,2h,20,18
+LLT,instar 1,-10,2h,20,0
+LLT,instar 2,-10,2h,20,0
+LLT,instar 3,-10,2h,20,0
+LLT,instar 4,-10,2h,20,0
+LLT,instar 5,-10,2h,20,0
+LLT,female,-10,2h,20,0
+LLT,male,-10,2h,20,0
+LLT,instar 1,-9,2h,20,4
+LLT,instar 2,-9,2h,20,0
+LLT,instar 3,-9,2h,20,2
+LLT,instar 4,-9,2h,20,8
+LLT,instar 5,-9,2h,20,4
+LLT,female,-9,2h,20,4
+LLT,male,-9,2h,20,2
+LLT,instar 1,-8,2h,20,13
+LLT,instar 2,-8,2h,20,4
+LLT,instar 3,-8,2h,20,4
+LLT,instar 4,-8,2h,20,12
+LLT,instar 5,-8,2h,20,10
+LLT,female,-8,2h,20,4
+LLT,male,-8,2h,20,2
+LLT,instar 1,-7,2h,20,20
+LLT,instar 2,-7,2h,20,10
+LLT,instar 3,-7,2h,20,20
+LLT,instar 4,-7,2h,20,18
+LLT,instar 5,-7,2h,20,18
+LLT,female,-7,2h,20,1
+LLT,male,-7,2h,20,8
+LLT,instar 1,-6,2h,20,20
+LLT,instar 2,-6,2h,20,18
+LLT,instar 3,-6,2h,20,18
+LLT,instar 4,-6,2h,20,18
+LLT,instar 5,-6,2h,20,20
+LLT,female,-6,2h,20,18
+LLT,male,-6,2h,20,18
+LLT,instar 1,-5,2h,20,18
+LLT,instar 2,-5,2h,20,14
+LLT,instar 3,-5,2h,20,17
+LLT,instar 4,-5,2h,20,18
+LLT,instar 5,-5,2h,20,20
+LLT,female,-5,2h,20,19
+LLT,male,-5,2h,20,20
